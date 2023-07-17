@@ -1,0 +1,10 @@
+argentina
+brasil
+venezuela
+bolivia
+chile
+colombia
+ecuador
+uruguay
+peru
+paraguay
